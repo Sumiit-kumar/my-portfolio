@@ -27,7 +27,7 @@ const Contact = () => {
               {/* Contact info */}
               <div className="grid sm:grid-cols-2 gap-6 mb-8">
                 <a
-                  href="mailto:sumitkumar@example.com"
+                  href="mailto:ksumitumar7375@gmail.com"
                   className="flex items-center gap-4 p-4 rounded-xl bg-secondary/30 border border-border/50 hover:bg-secondary/50 hover:border-primary/30 transition-all duration-300 group"
                 >
                   <div className="p-3 rounded-xl bg-primary/20 text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors duration-300">
@@ -35,12 +35,12 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Email</p>
-                    <p className="text-foreground font-medium">sumitkumar@example.com</p>
+                    <p className="text-foreground font-medium">ksumitumar7375@gmail.com</p>
                   </div>
                 </a>
 
                 <a
-                  href="tel:+911234567890"
+                  href="tel:+917367924582"
                   className="flex items-center gap-4 p-4 rounded-xl bg-secondary/30 border border-border/50 hover:bg-secondary/50 hover:border-primary/30 transition-all duration-300 group"
                 >
                   <div className="p-3 rounded-xl bg-primary/20 text-primary group-hover:bg-primary group-hover:text-primary-foreground transition-colors duration-300">
@@ -48,7 +48,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="text-sm text-muted-foreground">Phone</p>
-                    <p className="text-foreground font-medium">+91 12345 67890</p>
+                    <p className="text-foreground font-medium">+91 7367924582</p>
                   </div>
                 </a>
               </div>
@@ -63,7 +63,7 @@ const Contact = () => {
               {/* Social links */}
               <div className="flex justify-center gap-4">
                 <a
-                  href="https://github.com"
+                  href="https://github.com/Sumiit-kumar"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="social-icon"
@@ -72,7 +72,7 @@ const Contact = () => {
                   <Github size={20} />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://www.linkedin.com/in/sumiit-kumar/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="social-icon"
@@ -81,7 +81,7 @@ const Contact = () => {
                   <Linkedin size={20} />
                 </a>
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/its__sumit73"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="social-icon"

@@ -81,7 +81,7 @@ const Projects = () => {
                       <ExternalLink size={16} />
                       Live Demo
                     </a>
-                    <a
+                    {/* <a
                       href={project.githubUrl}
                       target="_blank"
                       rel="noopener noreferrer"
@@ -89,7 +89,7 @@ const Projects = () => {
                     >
                       <Github size={16} />
                       View Code
-                    </a>
+                    </a> */}
                   </div>
                 </div>
               </div>

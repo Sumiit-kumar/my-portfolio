@@ -42,7 +42,7 @@ const Hero = () => {
               <ArrowDown size={18} />
               View Projects
             </a>
-            <a 
+            {/* <a 
               href="#" 
               className="btn-secondary"
               onClick={(e) => {
@@ -52,7 +52,7 @@ const Hero = () => {
             >
               <FileText size={18} />
               Download Resume
-            </a>
+            </a> */}
           </div>
         </div>
       </div>
